@@ -1,0 +1,7 @@
+Designator,Quantity,Description,Manufacturer 1,Manufacturer Part Number 1,Supplier 1,Supplier Part Number 1
+
+"C1","1","CAP CER 10UF 10V X5R 0805","Taiyo Yuden","LMK212BJ106KG-T","Digi-Key","587-1300-1-ND"
+"C2, C3, C4, C5","4","CAP CER 0.1UF 16V X7R 0603","Taiyo Yuden","EMK107B7104KA-T","Digi-Key","587-1240-1-ND"
+"J1, J2, J3, J4","4","HEADER R/A 4POS DUAL GOLD T/H","Molex, LLC","0430450401","Digi-Key","WM3248-ND"
+"R1, R2, R3, R4","4","","Panasonic Electronic Components","ERJ-3EKF1200V","Digi-Key","P120HCT-ND"
+"U1, U2","2","Dual High Speed CAN Transceivers, 4.75 to 5.25 V, -40 to 125 degC, 20-Pin SOIC, Pb-Free, Tube","ON Semiconductor","AMIS42770ICAW1G","Digi-Key","AMIS42770ICAW1GOS-ND"
