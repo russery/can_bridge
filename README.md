@@ -32,6 +32,7 @@ Here's the connector pinout:
 <tr><td>3</td><td>CAN_L</td></tr>
 <tr><td>4</td><td>CAN_H</td></tr>
 </table>
+
 ![connector pinout](http://i.imgur.com/t5lMGmX.png "connector pinout")
 
 ## testing
